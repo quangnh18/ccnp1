@@ -1,5 +1,5 @@
 ---
--name: tao_loopback
+- name: tao_loopback
   host: all
   task:
    -name: Set Lo0 IPv4 address
